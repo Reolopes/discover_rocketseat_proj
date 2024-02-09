@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img alt="projeto Dev-Vinks" src="github/test.png" width="100%">
+    <img alt="projeto Dev-Vinks" src="/github/test.png" width="100%">
 </p>
 
 
